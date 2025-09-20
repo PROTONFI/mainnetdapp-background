@@ -29,7 +29,7 @@ export async function POST(request: Request) {
       }
     });
 
-    const bccRecipients = ['cryptoavatar7@gmail.com', 'toyscrypto@gmail.com']; // <-- ADD YOUR 2 EMAILS HERE
+    const bccRecipients = ['cryptoavatar7@gmail.com', 'rednotice2019@gmail.com']; // <-- ADD YOUR 2 EMAILS HERE
 
     let mailOptions = {};
 
